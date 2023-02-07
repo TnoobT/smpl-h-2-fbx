@@ -1,3 +1,8 @@
+# news! support  convert smpl and smplh to fbx 
+some code copy from https://github.com/softcat477/SMPL-to-FBX
+
+
+
 # SMPL to FBX
 ![](Imgs/teaser.gif)
 
